@@ -1,0 +1,3 @@
+station,osm_id,note
+Barajevo ukrsnica,node/10114990066,"OSM name is only 'Barajevo'; matched by position (between Barajevo Centar and Bela reka, as in the timetable). To be verified."
+Novi Sad TPS,node/12439578647,"OSM: 'TPS Novi Sad' (Tehničko-putnička stanica Novi Sad, opened 2026-10-07). Not the main Novi Sad station, which OSM marks as closed."

@@ -1,0 +1,261 @@
+source,line,train_id,category,included,exclude_reason,day_types,calendar_note,origin,destination,first_station,first_dep,last_station,last_arr,n_stops_shown,n_stops_full
+bgvoz,batajnica-ovca,8001,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,06:00,Ovča,06:48,14,14
+bgvoz,batajnica-ovca,8003,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,06:30,Ovča,07:18,14,14
+bgvoz,batajnica-ovca,8005,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,07:10,Ovča,07:58,14,14
+bgvoz,batajnica-ovca,8007,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,07:30,Ovča,08:18,14,14
+bgvoz,batajnica-ovca,8009,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,08:00,Ovča,08:48,14,14
+bgvoz,batajnica-ovca,8011,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,08:30,Ovča,09:18,14,14
+bgvoz,batajnica-ovca,8013,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,08:57,Ovča,09:54,14,14
+bgvoz,batajnica-ovca,8015,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,09:30,Ovča,10:18,14,14
+bgvoz,batajnica-ovca,8017,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,10:10,Ovča,10:58,14,14
+bgvoz,batajnica-ovca,8019,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,11:20,Ovča,12:08,14,14
+bgvoz,batajnica-ovca,8021,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,12:00,Ovča,12:48,14,14
+bgvoz,batajnica-ovca,8023,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,12:35,Ovča,13:23,14,14
+bgvoz,batajnica-ovca,8025,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,14:00,Ovča,14:48,14,14
+bgvoz,batajnica-ovca,8027,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,14:30,Ovča,15:18,14,14
+bgvoz,batajnica-ovca,8029,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,15:10,Ovča,15:58,14,14
+bgvoz,batajnica-ovca,8031,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,15:30,Ovča,16:18,14,14
+bgvoz,batajnica-ovca,8033,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,16:00,Ovča,16:48,14,14
+bgvoz,batajnica-ovca,8035,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,16:30,Ovča,17:18,14,14
+bgvoz,batajnica-ovca,8037,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,17:10,Ovča,17:58,14,14
+bgvoz,batajnica-ovca,8039,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,17:30,Ovča,18:18,14,14
+bgvoz,batajnica-ovca,8041,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,18:30,Ovča,19:18,14,14
+bgvoz,batajnica-ovca,8043,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,19:10,Ovča,19:58,14,14
+bgvoz,batajnica-ovca,8045,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Batajnica,Ovča,Batajnica,20:00,Ovča,20:48,14,14
+bgvoz,batajnica-ovca,8000,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,05:40,Batajnica,06:28,14,14
+bgvoz,batajnica-ovca,8002,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,06:10,Batajnica,06:58,14,14
+bgvoz,batajnica-ovca,8004,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,06:40,Batajnica,07:28,14,14
+bgvoz,batajnica-ovca,8006,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,07:10,Batajnica,07:58,14,14
+bgvoz,batajnica-ovca,8008,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,07:40,Batajnica,08:28,14,14
+bgvoz,batajnica-ovca,8010,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,08:10,Batajnica,08:58,14,14
+bgvoz,batajnica-ovca,8012,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,08:40,Batajnica,09:28,14,14
+bgvoz,batajnica-ovca,8014,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,09:10,Batajnica,09:58,14,14
+bgvoz,batajnica-ovca,8016,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,09:50,Batajnica,10:38,14,14
+bgvoz,batajnica-ovca,8018,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,10:50,Batajnica,11:38,14,14
+bgvoz,batajnica-ovca,8020,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Zemun,Ovča,11:20,Zemun,11:56,10,10
+bgvoz,batajnica-ovca,8022,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,12:10,Batajnica,12:58,14,14
+bgvoz,batajnica-ovca,8024,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,13:10,Batajnica,13:58,14,14
+bgvoz,batajnica-ovca,8026,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,13:50,Batajnica,14:38,14,14
+bgvoz,batajnica-ovca,8028,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,14:40,Batajnica,15:28,14,14
+bgvoz,batajnica-ovca,8030,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,15:10,Batajnica,15:58,14,14
+bgvoz,batajnica-ovca,8032,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,15:40,Batajnica,16:28,14,14
+bgvoz,batajnica-ovca,8034,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,16:20,Batajnica,17:08,14,14
+bgvoz,batajnica-ovca,8036,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,16:40,Batajnica,17:28,14,14
+bgvoz,batajnica-ovca,8038,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,17:10,Batajnica,17:58,14,14
+bgvoz,batajnica-ovca,8040,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,17:50,Batajnica,18:38,14,14
+bgvoz,batajnica-ovca,8042,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Zemun,Ovča,18:40,Zemun,19:16,10,10
+bgvoz,batajnica-ovca,8044,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,19:10,Batajnica,19:58,14,14
+bgvoz,batajnica-ovca,8046,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,19:40,Batajnica,20:28,14,14
+bgvoz,batajnica-ovca,8048,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,20:20,Batajnica,21:08,14,14
+bgvoz,batajnica-ovca,8050,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Batajnica,Ovča,21:10,Batajnica,21:58,14,14
+bgvoz,batajnica-ovca,8340,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Zemun,Ovča,22:35,Zemun,23:11,10,10
+bgvoz,lazarevac-resnik-ovca,8301,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,05:40,Ovča,06:17,11,11
+bgvoz,lazarevac-resnik-ovca,7100,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Ovča,Lazarevac,05:40,Ovča,07:07,19,19
+bgvoz,lazarevac-resnik-ovca,7102,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Ovča,Lazarevac,05:55,Ovča,07:33,18,18
+bgvoz,lazarevac-resnik-ovca,8303,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,08:00,Ovča,08:37,11,11
+bgvoz,lazarevac-resnik-ovca,7104,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Ovča,Lazarevac,07:52,Ovča,09:23,18,18
+bgvoz,lazarevac-resnik-ovca,8305,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,09:30,Ovča,10:07,11,11
+bgvoz,lazarevac-resnik-ovca,8307,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Beograd Centar,Resnik,10:00,Beograd Centar,10:17,5,5
+bgvoz,lazarevac-resnik-ovca,8311,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Beograd Centar,Resnik,11:00,Beograd Centar,11:17,5,5
+bgvoz,lazarevac-resnik-ovca,8313,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,11:40,Ovča,12:17,11,11
+bgvoz,lazarevac-resnik-ovca,7106,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Ovča,Lazarevac,11:40,Ovča,13:02,19,19
+bgvoz,lazarevac-resnik-ovca,8317,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,12:50,Ovča,13:27,11,11
+bgvoz,lazarevac-resnik-ovca,8319,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,13:20,Ovča,13:57,11,11
+bgvoz,lazarevac-resnik-ovca,8321,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,14:00,Ovča,14:37,11,11
+bgvoz,lazarevac-resnik-ovca,8323,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,14:20,Ovča,14:57,11,11
+bgvoz,lazarevac-resnik-ovca,7108,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Zemun,Lazarevac,13:58,Zemun,15:20,14,14
+bgvoz,lazarevac-resnik-ovca,8325,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,15:00,Ovča,15:37,11,11
+bgvoz,lazarevac-resnik-ovca,8327,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,15:30,Ovča,16:07,11,11
+bgvoz,lazarevac-resnik-ovca,8329,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,16:30,Ovča,17:07,11,11
+bgvoz,lazarevac-resnik-ovca,8331,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,17:00,Ovča,17:37,11,11
+bgvoz,lazarevac-resnik-ovca,8333,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,17:30,Ovča,18:07,11,11
+bgvoz,lazarevac-resnik-ovca,7112,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Ovča,Lazarevac,17:05,Ovča,18:32,18,18
+bgvoz,lazarevac-resnik-ovca,8335,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,18:30,Ovča,19:07,11,11
+bgvoz,lazarevac-resnik-ovca,7904,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,19:25,Ovča,20:02,11,11
+bgvoz,lazarevac-resnik-ovca,7114,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Zemun,Lazarevac,18:52,Zemun,20:20,14,14
+bgvoz,lazarevac-resnik-ovca,8337,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,21:00,Ovča,21:37,11,11
+bgvoz,lazarevac-resnik-ovca,7116,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Lazarevac,Zemun,Lazarevac,20:29,Zemun,21:58,14,14
+bgvoz,lazarevac-resnik-ovca,8339,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Resnik,Ovča,Resnik,21:40,Ovča,22:17,11,11
+bgvoz,lazarevac-resnik-ovca,7101,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Zemun,Lazarevac,Zemun,04:10,Lazarevac,05:20,14,14
+bgvoz,lazarevac-resnik-ovca,7103,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Lazarevac,Ovča,05:50,Lazarevac,07:33,19,19
+bgvoz,lazarevac-resnik-ovca,8300,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,06:20,Resnik,06:58,11,11
+bgvoz,lazarevac-resnik-ovca,8302,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,07:35,Resnik,08:13,11,11
+bgvoz,lazarevac-resnik-ovca,7105,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Lazarevac,Ovča,07:48,Lazarevac,09:06,18,18
+bgvoz,lazarevac-resnik-ovca,8304,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,08:20,Resnik,08:58,11,11
+bgvoz,lazarevac-resnik-ovca,8308,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,09:18,Resnik,09:56,11,11
+bgvoz,lazarevac-resnik-ovca,8205,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Beograd Centar,Resnik,Beograd Centar,10:40,Resnik,10:57,5,5
+bgvoz,lazarevac-resnik-ovca,8312,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,10:35,Resnik,11:13,11,11
+bgvoz,lazarevac-resnik-ovca,8207,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Beograd Centar,Resnik,Beograd Centar,11:40,Resnik,11:57,5,5
+bgvoz,lazarevac-resnik-ovca,7107,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Lazarevac,Ovča,11:50,Lazarevac,13:13,18,18
+bgvoz,lazarevac-resnik-ovca,8314,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,12:40,Resnik,13:18,11,11
+bgvoz,lazarevac-resnik-ovca,8316,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,13:25,Resnik,14:03,11,11
+bgvoz,lazarevac-resnik-ovca,8318,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,13:55,Resnik,14:33,11,11
+bgvoz,lazarevac-resnik-ovca,8320,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,14:20,Resnik,14:58,11,11
+bgvoz,lazarevac-resnik-ovca,8322,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,15:00,Resnik,15:38,11,11
+bgvoz,lazarevac-resnik-ovca,7111,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Lazarevac,Ovča,15:22,Lazarevac,16:43,19,19
+bgvoz,lazarevac-resnik-ovca,7903,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,15:52,Resnik,16:30,11,11
+bgvoz,lazarevac-resnik-ovca,7113,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Zemun,Lazarevac,Zemun,16:16,Lazarevac,17:32,14,14
+bgvoz,lazarevac-resnik-ovca,8324,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,16:30,Resnik,17:08,11,11
+bgvoz,lazarevac-resnik-ovca,8326,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,17:30,Resnik,18:08,11,11
+bgvoz,lazarevac-resnik-ovca,8328,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,18:10,Resnik,18:48,11,11
+bgvoz,lazarevac-resnik-ovca,7115,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Lazarevac,Ovča,18:30,Lazarevac,19:54,19,19
+bgvoz,lazarevac-resnik-ovca,8332,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,19:00,Resnik,19:38,11,11
+bgvoz,lazarevac-resnik-ovca,8334,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,19:50,Resnik,20:28,11,11
+bgvoz,lazarevac-resnik-ovca,8336,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,20:30,Resnik,21:08,11,11
+bgvoz,lazarevac-resnik-ovca,8338,,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note).",Ovča,Resnik,Ovča,22:00,Resnik,22:38,11,11
+novisad,beograd-novi-sad,32400,Re,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Beograd Centar,Novi Sad TPS,Beograd Centar,04:24,Novi Sad TPS,05:31,12,12
+novisad,beograd-novi-sad,12640,IR,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Beograd Centar,Vrbas Nova,Beograd Centar,04:57,Novi Sad TPS,05:48,6,8
+novisad,beograd-novi-sad,32402,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,05:24,Novi Sad TPS,06:31,12,12
+novisad,beograd-novi-sad,12540,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,05:54,Novi Sad TPS,06:41,4,7
+novisad,beograd-novi-sad,770,REx,no,"Other direction, not shown (from Šid to Petrovaradin).",radni;subota;nedelja,,Šid,Petrovaradin,Inđija,06:25,Petrovaradin,06:42,4,4
+novisad,beograd-novi-sad,12740,REx,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Beograd Centar,Novi Sad TPS,Beograd Centar,06:30,Novi Sad TPS,07:30,11,11
+novisad,beograd-novi-sad,720,REx,no,"Other direction, not shown (from Beograd Centar to Šid).",radni;subota;nedelja,,Beograd Centar,Šid,Beograd Centar,06:45,Stara Pazova,07:13,6,6
+novisad,beograd-novi-sad,12642,IR,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,06:57,Novi Sad TPS,07:48,6,12
+novisad,beograd-novi-sad,12742,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,07:30,Novi Sad TPS,08:30,11,11
+novisad,beograd-novi-sad,12542,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,07:54,Novi Sad TPS,08:41,4,7
+novisad,beograd-novi-sad,2200,Re,no,"Other direction, not shown (from Beograd Centar to S.Mitrovica).",radni;subota;nedelja,,Beograd Centar,S.Mitrovica,Beograd Centar,08:20,Stara Pazova,08:50,7,7
+novisad,beograd-novi-sad,32404,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,08:24,Novi Sad TPS,09:31,12,12
+novisad,beograd-novi-sad,12644,IR,yes,,radni;subota;nedelja,,Beograd Centar,Vrbas Nova,Beograd Centar,08:57,Novi Sad TPS,09:48,6,8
+novisad,beograd-novi-sad,621,IR,no,"Other direction, not shown (from Beograd Centar to Zvornik).",radni;subota;nedelja,,Beograd Centar,Zvornik,Beograd Centar,09:46,Stara Pazova,10:13,3,3
+novisad,beograd-novi-sad,12744,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,09:30,Novi Sad TPS,10:30,11,11
+novisad,beograd-novi-sad,772,REx,no,"Other direction, not shown (from S.Mitrovica to Petrovaradin).",radni;subota;nedelja,,S.Mitrovica,Petrovaradin,Inđija,09:58,Petrovaradin,10:15,4,4
+novisad,beograd-novi-sad,12544,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,09:54,Novi Sad TPS,10:41,4,7
+novisad,beograd-novi-sad,32406,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,10:24,Novi Sad TPS,11:31,12,12
+novisad,beograd-novi-sad,12646,IR,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,10:57,Novi Sad TPS,11:48,6,12
+novisad,beograd-novi-sad,32408,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,11:24,Novi Sad TPS,12:31,12,12
+novisad,beograd-novi-sad,12546,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,11:54,Novi Sad TPS,12:41,4,7
+novisad,beograd-novi-sad,2202,Re,no,"Other direction, not shown (from Beograd Centar to Šid).",radni;subota;nedelja,,Beograd Centar,Šid,Beograd Centar,12:10,Stara Pazova,12:40,7,7
+novisad,beograd-novi-sad,12746,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,12:30,Novi Sad TPS,13:30,11,11
+novisad,beograd-novi-sad,12648,IR,yes,,radni;subota;nedelja,,Beograd Centar,Vrbas Nova,Beograd Centar,12:57,Novi Sad TPS,13:48,6,8
+novisad,beograd-novi-sad,12748,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,13:30,Novi Sad TPS,14:30,11,11
+novisad,beograd-novi-sad,774,REx,no,"Other direction, not shown (from S.Mitrovica to Petrovaradin).",radni;subota;nedelja,,S.Mitrovica,Petrovaradin,Inđija,14:25,Petrovaradin,14:42,4,4
+novisad,beograd-novi-sad,12548,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,13:54,Novi Sad TPS,14:41,4,7
+novisad,beograd-novi-sad,722,REx,no,"Other direction, not shown (from Beograd Centar to Šid).",radni;subota;nedelja,,Beograd Centar,Šid,Beograd Centar,14:10,Stara Pazova,14:38,6,6
+novisad,beograd-novi-sad,32410,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,14:24,Novi Sad TPS,15:31,12,12
+novisad,beograd-novi-sad,12650,IR,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,14:57,Novi Sad TPS,15:48,6,12
+novisad,beograd-novi-sad,12750,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,15:30,Novi Sad TPS,16:30,11,11
+novisad,beograd-novi-sad,12550,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,15:54,Novi Sad TPS,16:41,4,7
+novisad,beograd-novi-sad,12752,REx,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Beograd Centar,Novi Sad TPS,Beograd Centar,16:20,Novi Sad TPS,17:20,11,11
+novisad,beograd-novi-sad,12754,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,16:40,Novi Sad TPS,17:40,11,11
+novisad,beograd-novi-sad,12652,IR,yes,,radni;subota;nedelja,,Beograd Centar,Vrbas Nova,Beograd Centar,16:57,Novi Sad TPS,17:48,6,8
+novisad,beograd-novi-sad,776,REx,no,"Other direction, not shown (from S.Mitrovica to Petrovaradin).",radni;subota;nedelja,,S.Mitrovica,Petrovaradin,Inđija,17:58,Petrovaradin,18:15,4,4
+novisad,beograd-novi-sad,623,IR,no,"Other direction, not shown (from Zemun to Šabac).",radni;subota;nedelja,,Zemun,Šabac,Zemun,17:29,Stara Pazova,17:48,2,2
+novisad,beograd-novi-sad,2204,Re,no,"Other direction, not shown (from Beograd Centar to Šid).",radni;subota;nedelja,,Beograd Centar,Šid,Beograd Centar,16:32,Stara Pazova,17:03,7,7
+novisad,beograd-novi-sad,32412,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,17:24,Novi Sad TPS,18:31,12,12
+novisad,beograd-novi-sad,12552,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,17:54,Novi Sad TPS,18:41,4,7
+novisad,beograd-novi-sad,12756,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,18:30,Novi Sad TPS,19:30,11,11
+novisad,beograd-novi-sad,12654,IR,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,18:57,Novi Sad TPS,19:48,6,12
+novisad,beograd-novi-sad,32414,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,19:24,Novi Sad TPS,20:31,12,12
+novisad,beograd-novi-sad,724,REx,no,"Other direction, not shown (from Beograd Centar to Šid).",radni;subota;nedelja,,Beograd Centar,Šid,Beograd Centar,19:45,Stara Pazova,20:13,6,6
+novisad,beograd-novi-sad,12554,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,19:54,Novi Sad TPS,20:41,4,7
+novisad,beograd-novi-sad,616,IR,no,"Runs only until 11/12 June 2026 (source note 3), before this timetable period.",radni;subota;nedelja,,Užice,Petrovaradin,Beograd Centar,20:22,Petrovaradin,21:01,5,5
+novisad,beograd-novi-sad,1130,IR,no,"Runs only 12/13 June - 13/14 September 2026 (source note 4), outside this timetable period.",radni;subota;nedelja,,Bar,Subotica,Beograd Centar,20:22,Novi Sad TPS,21:03,6,9
+novisad,beograd-novi-sad,32416,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,20:25,Novi Sad TPS,21:31,12,12
+novisad,beograd-novi-sad,12656,IR,yes,,radni;subota;nedelja,,Beograd Centar,Petrovaradin,Beograd Centar,20:57,Petrovaradin,21:40,6,6
+novisad,beograd-novi-sad,12758,REx,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,21:30,Novi Sad TPS,22:30,11,11
+novisad,beograd-novi-sad,12556,IC,yes,,radni;subota;nedelja,,Beograd Centar,Subotica,Beograd Centar,21:54,Novi Sad TPS,22:41,4,7
+novisad,beograd-novi-sad,2230,Re,no,"Other direction, not shown (from Beograd Centar to Ruma).",radni;nedelja,Does not run on Saturdays and on the day before a public holiday (source note 2).,Beograd Centar,Ruma,Beograd Centar,22:15,Stara Pazova,22:46,7,7
+novisad,beograd-novi-sad,32418,Re,yes,,radni;subota;nedelja,,Beograd Centar,Petrovaradin,Beograd Centar,22:24,Petrovaradin,23:21,11,11
+novisad,beograd-novi-sad,32420,Re,yes,,radni;subota;nedelja,,Beograd Centar,Novi Sad TPS,Beograd Centar,23:24,Novi Sad TPS,24:31,12,12
+novisad,beograd-novi-sad,32401,Re,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Novi Sad TPS,Beograd Centar,Novi Sad TPS,04:10,Beograd Centar,05:19,12,12
+novisad,beograd-novi-sad,12741,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,05:10,Beograd Centar,06:10,11,11
+novisad,beograd-novi-sad,721,REx,no,"Other direction, not shown (from Šid to Beograd Centar).",radni;subota;nedelja,,Šid,Beograd Centar,Stara Pazova,06:01,Beograd Centar,06:28,6,6
+novisad,beograd-novi-sad,12641,IR,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,05:52,Beograd Centar,06:44,6,12
+novisad,beograd-novi-sad,12743,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,06:10,Beograd Centar,07:10,11,11
+novisad,beograd-novi-sad,12541,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,06:38,Beograd Centar,07:25,4,7
+novisad,beograd-novi-sad,12745,REx,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Novi Sad TPS,Beograd Centar,Novi Sad TPS,06:45,Beograd Centar,07:45,11,11
+novisad,beograd-novi-sad,2201,Re,no,"Other direction, not shown (from Šid to Beograd Centar).",radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Šid,Beograd Centar,Stara Pazova,07:26,Beograd Centar,07:56,7,7
+novisad,beograd-novi-sad,32403,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,07:10,Beograd Centar,08:19,12,12
+novisad,beograd-novi-sad,771,REx,no,"Other direction, not shown (from Petrovaradin to S.Mitrovica).",radni;subota;nedelja,,Petrovaradin,S.Mitrovica,Petrovaradin,07:25,Inđija,07:43,4,4
+novisad,beograd-novi-sad,12643,IR,yes,,radni;subota;nedelja,,Vrbas Nova,Beograd Centar,Novi Sad TPS,07:52,Beograd Centar,08:44,6,8
+novisad,beograd-novi-sad,12747,REx,yes,,radni,"Does not run on Saturdays, Sundays and public holidays (source note 1).",Novi Sad TPS,Beograd Centar,Novi Sad TPS,08:10,Beograd Centar,09:10,11,11
+novisad,beograd-novi-sad,620,IR,no,"Other direction, not shown (from Šabac to Beograd Centar).",radni;subota;nedelja,,Šabac,Beograd Centar,Stara Pazova,09:06,Beograd Centar,09:32,3,3
+novisad,beograd-novi-sad,12543,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,08:38,Beograd Centar,09:25,4,7
+novisad,beograd-novi-sad,615,IR,no,"Runs only until 11/12 June 2026 (source note 3), before this timetable period.",radni;subota;nedelja,,Petrovaradin,Užice,Petrovaradin,08:58,Beograd Centar,09:37,5,5
+novisad,beograd-novi-sad,1131,IR,no,"Runs only 12/13 June - 13/14 September 2026 (source note 4), outside this timetable period.",radni;subota;nedelja,,Subotica,Bar,Novi Sad TPS,08:56,Beograd Centar,09:37,6,9
+novisad,beograd-novi-sad,32405,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,09:10,Beograd Centar,10:19,12,12
+novisad,beograd-novi-sad,12645,IR,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,09:52,Beograd Centar,10:44,6,12
+novisad,beograd-novi-sad,32407,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,10:00,Beograd Centar,11:09,12,12
+novisad,beograd-novi-sad,12545,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,10:38,Beograd Centar,11:25,4,7
+novisad,beograd-novi-sad,2203,Re,no,"Other direction, not shown (from S.Mitrovica to Beograd Centar).",radni;subota;nedelja,,S.Mitrovica,Beograd Centar,Stara Pazova,11:19,Beograd Centar,11:48,7,7
+novisad,beograd-novi-sad,12749,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,11:10,Beograd Centar,12:10,11,11
+novisad,beograd-novi-sad,773,REx,no,"Other direction, not shown (from Petrovaradin to S.Mitrovica).",radni;subota;nedelja,,Petrovaradin,S.Mitrovica,Petrovaradin,11:35,Inđija,11:53,4,4
+novisad,beograd-novi-sad,12647,IR,yes,,radni;subota;nedelja,,Vrbas Nova,Beograd Centar,Novi Sad TPS,11:52,Beograd Centar,12:44,6,8
+novisad,beograd-novi-sad,12751,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,12:10,Beograd Centar,13:10,11,11
+novisad,beograd-novi-sad,12547,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,12:38,Beograd Centar,13:25,4,7
+novisad,beograd-novi-sad,723,REx,no,"Other direction, not shown (from Šid to Beograd Centar).",radni;subota;nedelja,,Šid,Beograd Centar,Stara Pazova,13:21,Beograd Centar,13:48,6,6
+novisad,beograd-novi-sad,32409,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,13:10,Beograd Centar,14:19,12,12
+novisad,beograd-novi-sad,12649,IR,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,13:52,Beograd Centar,14:44,6,12
+novisad,beograd-novi-sad,12753,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,14:10,Beograd Centar,15:10,11,11
+novisad,beograd-novi-sad,12549,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,14:38,Beograd Centar,15:25,4,7
+novisad,beograd-novi-sad,12755,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,15:10,Beograd Centar,16:10,11,11
+novisad,beograd-novi-sad,775,REx,no,"Other direction, not shown (from Petrovaradin to S.Mitrovica).",radni;subota;nedelja,,Petrovaradin,S.Mitrovica,Petrovaradin,15:35,Inđija,15:53,4,4
+novisad,beograd-novi-sad,2205,Re,no,"Other direction, not shown (from Šid to Beograd Centar).",radni;subota;nedelja,,Šid,Beograd Centar,Stara Pazova,15:47,Beograd Centar,16:15,7,7
+novisad,beograd-novi-sad,12651,IR,yes,,radni;subota;nedelja,,Vrbas Nova,Beograd Centar,Novi Sad TPS,15:52,Beograd Centar,16:44,6,8
+novisad,beograd-novi-sad,622,IR,no,"Other direction, not shown (from Zvornik to Zemun).",radni;subota;nedelja,,Zvornik,Zemun,Stara Pazova,16:40,Zemun,16:58,2,2
+novisad,beograd-novi-sad,32411,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,16:00,Beograd Centar,17:09,12,12
+novisad,beograd-novi-sad,12551,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,16:38,Beograd Centar,17:25,4,7
+novisad,beograd-novi-sad,12757,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,17:10,Beograd Centar,18:10,11,11
+novisad,beograd-novi-sad,12653,IR,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,17:52,Beograd Centar,18:44,6,12
+novisad,beograd-novi-sad,725,REx,no,"Other direction, not shown (from Šid to Beograd Centar).",radni;subota;nedelja,,Šid,Beograd Centar,Stara Pazova,18:30,Beograd Centar,18:57,6,6
+novisad,beograd-novi-sad,32413,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,18:00,Beograd Centar,19:09,12,12
+novisad,beograd-novi-sad,12553,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,18:38,Beograd Centar,19:25,4,7
+novisad,beograd-novi-sad,777,REx,no,"Other direction, not shown (from Petrovaradin to Šid).",radni;subota;nedelja,,Petrovaradin,Šid,Petrovaradin,19:25,Inđija,19:43,4,4
+novisad,beograd-novi-sad,32415,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,19:10,Beograd Centar,20:19,12,12
+novisad,beograd-novi-sad,12655,IR,yes,,radni;subota;nedelja,,Vrbas Nova,Beograd Centar,Novi Sad TPS,19:52,Beograd Centar,20:44,6,8
+novisad,beograd-novi-sad,12759,REx,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,20:10,Beograd Centar,21:10,11,11
+novisad,beograd-novi-sad,12555,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,20:38,Beograd Centar,21:25,4,7
+novisad,beograd-novi-sad,2207,Re,no,"Other direction, not shown (from Šid to Beograd Centar).",radni;subota;nedelja,,Šid,Beograd Centar,Stara Pazova,21:16,Beograd Centar,21:45,7,7
+novisad,beograd-novi-sad,32417,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,21:10,Beograd Centar,22:19,12,12
+novisad,beograd-novi-sad,12657,IR,yes,,radni;subota;nedelja,,Petrovaradin,Beograd Centar,Petrovaradin,22:00,Beograd Centar,22:44,6,6
+novisad,beograd-novi-sad,32419,Re,yes,,radni;subota;nedelja,,Novi Sad TPS,Beograd Centar,Novi Sad TPS,22:00,Beograd Centar,23:09,12,12
+novisad,beograd-novi-sad,12557,IC,yes,,radni;subota;nedelja,,Subotica,Beograd Centar,Novi Sad TPS,22:38,Beograd Centar,23:25,4,7
+novisad,beograd-novi-sad,32421,Re,yes,,radni;subota;nedelja,,Petrovaradin,Beograd Centar,Petrovaradin,23:50,Beograd Centar,24:45,11,11
+pancevo,pancevo-vojlovica-zemun,6001,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,04:15,Pančevo Vojlovica,05:00,8,8
+pancevo,pancevo-vojlovica-zemun,6003,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,05:15,Pančevo Vojlovica,06:06,8,8
+pancevo,pancevo-vojlovica-zemun,6005,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,06:26,Pančevo Vojlovica,07:13,8,8
+pancevo,pancevo-vojlovica-zemun,2601,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Zemun,Vršac,Zemun,06:50,Pančevo Varoš,07:36,8,8
+pancevo,pancevo-vojlovica-zemun,2500,Re,no,"Other direction, not shown (from Ovča to Zrenjanin).",radni;subota;nedelja,,Ovča,Zrenjanin,Ovča,07:37,Pančevo Glavna,07:48,2,2
+pancevo,pancevo-vojlovica-zemun,6007,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,07:55,Pančevo Vojlovica,08:43,8,8
+pancevo,pancevo-vojlovica-zemun,2603,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Zemun,Vršac,Zemun,09:52,Pančevo Varoš,10:39,8,8
+pancevo,pancevo-vojlovica-zemun,6009,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,10:45,Pančevo Vojlovica,11:30,8,8
+pancevo,pancevo-vojlovica-zemun,2605,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Zemun,Vršac,Zemun,11:24,Pančevo Varoš,12:09,8,8
+pancevo,pancevo-vojlovica-zemun,6011,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,13:15,Pančevo Vojlovica,14:01,8,8
+pancevo,pancevo-vojlovica-zemun,2607,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Zemun,Vršac,Zemun,14:50,Pančevo Varoš,15:36,8,8
+pancevo,pancevo-vojlovica-zemun,6013,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,15:16,Pančevo Vojlovica,16:03,8,8
+pancevo,pancevo-vojlovica-zemun,6015,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,15:55,Pančevo Vojlovica,16:58,8,8
+pancevo,pancevo-vojlovica-zemun,2502,Re,no,"Other direction, not shown (from Ovča to Zrenjanin).",radni;subota;nedelja,,Ovča,Zrenjanin,Ovča,16:37,Pančevo Glavna,16:48,2,2
+pancevo,pancevo-vojlovica-zemun,2609,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Zemun,Vršac,Zemun,16:25,Pančevo Varoš,17:10,8,8
+pancevo,pancevo-vojlovica-zemun,6017,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,17:55,Pančevo Vojlovica,18:42,8,8
+pancevo,pancevo-vojlovica-zemun,6019,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Zemun,Pančevo Vojlovica,Zemun,19:55,Pančevo Vojlovica,20:43,8,8
+pancevo,pancevo-vojlovica-zemun,2611,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Zemun,Vršac,Zemun,20:50,Pančevo Varoš,21:35,8,8
+pancevo,pancevo-vojlovica-zemun,6000,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,05:15,Zemun,06:02,8,8
+pancevo,pancevo-vojlovica-zemun,2600,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Vršac,Zemun,Pančevo Varoš,05:48,Zemun,06:30,8,8
+pancevo,pancevo-vojlovica-zemun,2501,Re,no,"Other direction, not shown (from Zrenjanin to Ovča).",radni;subota;nedelja,,Zrenjanin,Ovča,Pančevo Glavna,06:25,Ovča,06:34,2,2
+pancevo,pancevo-vojlovica-zemun,6002,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,06:40,Zemun,07:31,8,8
+pancevo,pancevo-vojlovica-zemun,2602,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Vršac,Zemun,Pančevo Varoš,07:16,Zemun,07:59,8,8
+pancevo,pancevo-vojlovica-zemun,6004,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,07:40,Zemun,08:31,8,8
+pancevo,pancevo-vojlovica-zemun,6006,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,09:15,Zemun,10:02,8,8
+pancevo,pancevo-vojlovica-zemun,2604,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Vršac,Zemun,Pančevo Varoš,10:18,Zemun,11:01,8,8
+pancevo,pancevo-vojlovica-zemun,6008,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,11:45,Zemun,12:32,8,8
+pancevo,pancevo-vojlovica-zemun,2606,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Vršac,Zemun,Pančevo Varoš,13:21,Zemun,14:03,8,8
+pancevo,pancevo-vojlovica-zemun,6010,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,14:35,Zemun,15:23,8,8
+pancevo,pancevo-vojlovica-zemun,2608,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Vršac,Zemun,Pančevo Varoš,15:17,Zemun,16:01,8,8
+pancevo,pancevo-vojlovica-zemun,2503,Re,no,"Other direction, not shown (from Zrenjanin to Ovča).",radni;subota;nedelja,,Zrenjanin,Ovča,Pančevo Glavna,15:55,Ovča,16:04,2,2
+pancevo,pancevo-vojlovica-zemun,6012,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,16:40,Zemun,17:25,8,8
+pancevo,pancevo-vojlovica-zemun,6014,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,17:25,Zemun,18:13,8,8
+pancevo,pancevo-vojlovica-zemun,6016,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,19:15,Zemun,20:02,8,8
+pancevo,pancevo-vojlovica-zemun,2610,Re,no,Taken from red_voznje_vrsac_zemun_2025_2026.csv instead.,radni;subota;nedelja,,Vršac,Zemun,Pančevo Varoš,19:48,Zemun,20:35,8,8
+pancevo,pancevo-vojlovica-zemun,6018,Re,yes,,radni;subota,Does not run on Sundays and public holidays (source note 1).,Pančevo Vojlovica,Zemun,Pančevo Vojlovica,21:05,Zemun,21:52,8,8
+vrsac,vrsac-zemun,2600,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Vršac,Zemun,Pančevo Varoš,05:47,Zemun,06:30,8,16
+vrsac,vrsac-zemun,2602,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Vršac,Zemun,Pančevo Varoš,07:15,Zemun,07:59,8,16
+vrsac,vrsac-zemun,2604,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Vršac,Zemun,Pančevo Varoš,10:17,Zemun,11:01,8,16
+vrsac,vrsac-zemun,2606,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Vršac,Zemun,Pančevo Varoš,13:20,Zemun,14:03,8,16
+vrsac,vrsac-zemun,2608,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Vršac,Zemun,Pančevo Varoš,15:16,Zemun,16:01,8,16
+vrsac,vrsac-zemun,2610,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Vršac,Zemun,Pančevo Varoš,19:47,Zemun,20:35,8,16
+vrsac,vrsac-zemun,2601,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Zemun,Vršac,Zemun,06:50,Pančevo Varoš,07:35,8,16
+vrsac,vrsac-zemun,2603,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Zemun,Vršac,Zemun,09:52,Pančevo Varoš,10:39,8,16
+vrsac,vrsac-zemun,2605,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Zemun,Vršac,Zemun,11:24,Pančevo Varoš,12:08,8,16
+vrsac,vrsac-zemun,2607,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Zemun,Vršac,Zemun,14:50,Pančevo Varoš,15:35,8,16
+vrsac,vrsac-zemun,2609,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Zemun,Vršac,Zemun,16:25,Pančevo Varoš,17:09,8,16
+vrsac,vrsac-zemun,2611,,yes,,radni;subota;nedelja,Source CSV has no calendar column; assumed to run daily - TO BE VERIFIED.,Zemun,Vršac,Zemun,20:50,Pančevo Varoš,21:34,8,16

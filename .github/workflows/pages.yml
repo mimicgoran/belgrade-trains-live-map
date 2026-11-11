@@ -1,0 +1,42 @@
+# Publishes the web map (folder web/) to GitHub Pages on every push to main.
+# Repository settings: Settings > Pages > Build and deployment > Source: "GitHub Actions".
+name: Deploy map to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Test the simulation logic
+        run: node tests/test_sim.js
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload the web folder
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: web
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

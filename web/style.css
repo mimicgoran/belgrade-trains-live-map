@@ -1,0 +1,317 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+#map {
+  position: absolute;
+  inset: 0;
+}
+
+.panel {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 6px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  padding: 10px 12px;
+}
+
+.info {
+  max-width: 330px;
+  transition: opacity 0.6s ease;
+}
+
+.info.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.info-button {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  font: italic bold 20px Georgia, serif;
+  cursor: pointer;
+  padding: 0;
+}
+
+.info-button:hover {
+  background: #f4f4f4;
+}
+
+.train-icon {
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.45));
+}
+
+.train-icon svg {
+  display: block;
+}
+
+.info h1 {
+  font-size: 22px;
+  margin: 0 0 2px;
+}
+
+.info p {
+  margin: 6px 0;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.info .subtitle {
+  color: #555;
+  margin-top: 0;
+}
+
+.info .warning {
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.layers-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.layers-button {
+  width: 44px;
+  height: 44px;
+  background: #fff;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.layers-button:hover,
+.info-button:hover {
+  background: #f4f4f4;
+}
+
+.layers {
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: min(330px, calc(100vw - 30px));
+  padding: 12px 14px;
+}
+
+.layers[hidden] {
+  display: none;
+}
+
+.layers label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  padding: 5px 0;
+}
+
+.layers input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.layers .trains-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.layers .expander {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 4px 6px;
+}
+
+.layers .line-list {
+  margin: 2px 0 0 26px;
+}
+
+.layers .line-row {
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+.layers .swatch {
+  flex: 0 0 auto;
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+}
+
+/* larger zoom buttons */
+.leaflet-touch .leaflet-bar a,
+.leaflet-bar a {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 22px;
+}
+
+.train-popup {
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.train-popup .shown {
+  color: #666;
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 3px;
+}
+
+/* ------------------------------------------------ time bar */
+.timebar {
+  position: absolute;
+  left: 50%;
+  bottom: 28px;
+  transform: translateX(-50%);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: min(460px, calc(100vw - 24px));
+  pointer-events: none;
+}
+
+.timebar > * {
+  pointer-events: auto;
+}
+
+.time-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: #222;
+  cursor: pointer;
+}
+
+.timebar.is-sim .time-pill {
+  background: #fff4d6;
+  border-color: #e0a100;
+}
+
+.tp-caret {
+  font-size: 12px;
+  color: #666;
+}
+
+.time-panel {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 14px 16px;
+}
+
+.time-panel[hidden] {
+  display: none;
+}
+
+.tp-row + .tp-row {
+  margin-top: 12px;
+}
+
+.tp-days,
+.tp-speeds {
+  display: flex;
+  gap: 6px;
+}
+
+.tp-days button,
+.tp-speeds button,
+.tp-play,
+.tp-now {
+  font: inherit;
+  font-size: 15px;
+  border: 1px solid #bbb;
+  background: #fff;
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.tp-days button {
+  flex: 1;
+}
+
+.tp-days button.active,
+.tp-speeds button.active {
+  background: #222;
+  border-color: #222;
+  color: #fff;
+}
+
+.tp-slider input[type="range"] {
+  width: 100%;
+  margin: 0;
+  accent-color: #222;
+  height: 24px;
+  cursor: pointer;
+}
+
+.tp-ticks {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #666;
+  font-variant-numeric: tabular-nums;
+}
+
+.tp-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tp-play {
+  width: 40px;
+  padding: 6px 0;
+}
+
+.tp-now {
+  margin-left: auto;
+}
+
+.tp-now:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+@media (max-width: 600px) {
+  .timebar {
+    bottom: 34px;
+  }
+  .tp-controls {
+    flex-wrap: wrap;
+  }
+
+  .info {
+    max-width: 230px;
+    padding: 8px 10px;
+  }
+  .info h1 {
+    font-size: 16px;
+  }
+  .info .subtitle {
+    font-size: 12px;
+  }
+}

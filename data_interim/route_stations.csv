@@ -1,0 +1,82 @@
+route_id,line,seq,station,km,station_to_track_m
+batajnica-ovca,batajnica-ovca,1,Batajnica,0.000,6
+batajnica-ovca,batajnica-ovca,2,Kamendin,5.231,3
+batajnica-ovca,batajnica-ovca,3,Zemunsko polje,6.761,5
+batajnica-ovca,batajnica-ovca,4,Altina,7.972,27
+batajnica-ovca,batajnica-ovca,5,Zemun,10.534,19
+batajnica-ovca,batajnica-ovca,6,Tošin bunar,13.632,171
+batajnica-ovca,batajnica-ovca,7,Novi Beograd,15.745,7
+batajnica-ovca,batajnica-ovca,8,Beograd Centar,18.963,33
+batajnica-ovca,batajnica-ovca,9,Karađorđev park,20.078,82
+batajnica-ovca,batajnica-ovca,10,Vukov spomenik,21.683,45
+batajnica-ovca,batajnica-ovca,11,Pančevački most,23.647,97
+batajnica-ovca,batajnica-ovca,12,Krnjača most,26.177,5
+batajnica-ovca,batajnica-ovca,13,Krnjača ukrsnica,27.151,18
+batajnica-ovca,batajnica-ovca,14,Sebeš,29.015,3
+batajnica-ovca,batajnica-ovca,15,Ovča,31.628,12
+lazarevac-ovca,lazarevac-resnik-ovca,1,Lazarevac,0.000,41
+lazarevac-ovca,lazarevac-resnik-ovca,2,Vreoci,8.093,3
+lazarevac-ovca,lazarevac-resnik-ovca,3,Stepojevac,14.713,6
+lazarevac-ovca,lazarevac-resnik-ovca,4,Leskovac Kolubarski,17.609,2
+lazarevac-ovca,lazarevac-resnik-ovca,5,Veliki Borak,22.248,3
+lazarevac-ovca,lazarevac-resnik-ovca,6,Barajevo Centar,27.413,2
+lazarevac-ovca,lazarevac-resnik-ovca,7,Barajevo ukrsnica,29.640,5
+lazarevac-ovca,lazarevac-resnik-ovca,8,Bela reka,37.720,1
+lazarevac-ovca,lazarevac-resnik-ovca,9,Resnik,45.313,81
+lazarevac-ovca,lazarevac-resnik-ovca,10,Kijevo,47.736,4
+lazarevac-ovca,lazarevac-resnik-ovca,11,Kneževac,48.794,23
+lazarevac-ovca,lazarevac-resnik-ovca,12,Rakovica,50.809,11
+lazarevac-ovca,lazarevac-resnik-ovca,13,Karađorđev park,56.500,81
+lazarevac-ovca,lazarevac-resnik-ovca,14,Vukov spomenik,58.105,45
+lazarevac-ovca,lazarevac-resnik-ovca,15,Pančevački most,60.150,16
+lazarevac-ovca,lazarevac-resnik-ovca,16,Krnjača most,62.635,38
+lazarevac-ovca,lazarevac-resnik-ovca,17,Krnjača ukrsnica,63.573,18
+lazarevac-ovca,lazarevac-resnik-ovca,18,Sebeš,65.437,3
+lazarevac-ovca,lazarevac-resnik-ovca,19,Ovča,68.050,12
+lazarevac-zemun,lazarevac-resnik-ovca,1,Lazarevac,0.000,41
+lazarevac-zemun,lazarevac-resnik-ovca,2,Vreoci,8.093,3
+lazarevac-zemun,lazarevac-resnik-ovca,3,Stepojevac,14.713,6
+lazarevac-zemun,lazarevac-resnik-ovca,4,Leskovac Kolubarski,17.609,2
+lazarevac-zemun,lazarevac-resnik-ovca,5,Veliki Borak,22.248,3
+lazarevac-zemun,lazarevac-resnik-ovca,6,Barajevo Centar,27.413,2
+lazarevac-zemun,lazarevac-resnik-ovca,7,Barajevo ukrsnica,29.640,5
+lazarevac-zemun,lazarevac-resnik-ovca,8,Bela reka,37.720,1
+lazarevac-zemun,lazarevac-resnik-ovca,9,Resnik,45.313,81
+lazarevac-zemun,lazarevac-resnik-ovca,10,Kijevo,47.736,4
+lazarevac-zemun,lazarevac-resnik-ovca,11,Kneževac,48.794,23
+lazarevac-zemun,lazarevac-resnik-ovca,12,Rakovica,50.809,11
+lazarevac-zemun,lazarevac-resnik-ovca,13,Beograd Centar,56.633,26
+lazarevac-zemun,lazarevac-resnik-ovca,14,Novi Beograd,59.821,7
+lazarevac-zemun,lazarevac-resnik-ovca,15,Tošin bunar,61.934,171
+lazarevac-zemun,lazarevac-resnik-ovca,16,Zemun,65.031,21
+beograd-novi-sad,beograd-novi-sad,1,Beograd Centar,0.000,26
+beograd-novi-sad,beograd-novi-sad,2,Novi Beograd,3.069,125
+beograd-novi-sad,beograd-novi-sad,3,Tošin bunar,5.131,2
+beograd-novi-sad,beograd-novi-sad,4,Zemun,8.398,19
+beograd-novi-sad,beograd-novi-sad,5,Zemunsko polje,12.008,163
+beograd-novi-sad,beograd-novi-sad,6,Batajnica,18.932,6
+beograd-novi-sad,beograd-novi-sad,7,Nova Pazova,25.441,13
+beograd-novi-sad,beograd-novi-sad,8,Stara Pazova,33.379,23
+beograd-novi-sad,beograd-novi-sad,9,Inđija,41.150,10
+beograd-novi-sad,beograd-novi-sad,10,Beška,52.335,8
+beograd-novi-sad,beograd-novi-sad,11,Sremski Karlovci,64.140,22
+beograd-novi-sad,beograd-novi-sad,12,Petrovaradin,69.062,11
+beograd-novi-sad,beograd-novi-sad,13,Novi Sad TPS,77.376,174
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,1,Zemun,0.000,21
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,2,Tošin bunar,3.098,171
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,3,Novi Beograd,5.211,7
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,4,Beograd Centar,8.429,33
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,5,Karađorđev park,9.543,82
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,6,Pančevo Glavna,28.704,4
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,7,Pančevo Varoš,30.854,2
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,8,Pančevo Strelište,32.198,1
+pancevo-vojlovica-zemun,pancevo-vojlovica-zemun,9,Pančevo Vojlovica,33.666,4
+vrsac-zemun,vrsac-zemun,1,Pančevo Varoš,0.000,177
+vrsac-zemun,vrsac-zemun,2,Pančevo Glavna,1.973,4
+vrsac-zemun,vrsac-zemun,3,Pančevački most,17.275,193
+vrsac-zemun,vrsac-zemun,4,Vukov spomenik,19.491,15
+vrsac-zemun,vrsac-zemun,5,Karađorđev park,21.133,82
+vrsac-zemun,vrsac-zemun,6,Beograd Centar,22.248,33
+vrsac-zemun,vrsac-zemun,7,Novi Beograd,25.347,125
+vrsac-zemun,vrsac-zemun,8,Tošin bunar,27.410,2
+vrsac-zemun,vrsac-zemun,9,Zemun,30.677,21
